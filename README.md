@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YHOAUANN
 - 👀 I’m interested in table tennis,astronomy,music
 - 🌱 I’m currently learning WEB the front-end development 
-- 😍 I like the aurora,vce
+- 😍 I like the aurora,vce，eat Yu-Shiang rose(transliteration)
 - 📫 How to reach me yhoauann@qq.com
 
 <!---
