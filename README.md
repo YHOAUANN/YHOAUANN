@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YHOAUANN
 - 👀 I’m interested in table tennis,astronomy,music
-- 🌱 I’m currently learning WEB the front-end development 
+- 🌱 I’m currently learning HTML CSS JavaScript
 - 😍 I like the aurora,vce，eat Yu-Shiang rose
 - 📫 How to reach me yhoauann@qq.com
 
